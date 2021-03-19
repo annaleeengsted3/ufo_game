@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UFO Cow Abduction</string>
+    <string name="points">Points: %1$s</string>
+    <string name="timerView">Time left: %1$s</string>
+    <string name="move_right">Right</string>
+    <string name="move_left">Left</string>
+    <string name="move_up">Up</string>
+    <string name="move_down">Down</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_reset">Reset</string>
+    <string name="newgame">New Game</string>
+    <string name="gameoverTitle">GAMEOVER!</string>
+    <string name="levelTitle">Level </string>
+    <string name="gameoverMessage">GAMEOVER! Try again?</string>
+    <string name="levelMessage">It\'s getting harder now- are you ready?</string>
+</resources>
